@@ -1,7 +1,6 @@
-# learn-code-in-hindi
-# Programming Tutorials in Hindi
+# Best Programming Tutorials in Hindi – हिंदी में प्रोग्रामिंग ट्यूटोरियल्स
 
-Welcome to the **Programming Tutorials in Hindi** repository! This repository contains resources, code snippets, and tutorials for various programming languages and technologies. Each section links to in-depth tutorials available on **[goodvibesonly.cloud](https://goodvibesonly.cloud)**, providing step-by-step instructions and code examples in Hindi.
+हिंदी में कोडिंग सीखने के लिए सबसे बेहतरीन ट्यूटोरियल्स की सूची! अगर आप हिंदी में कोडिंग सीखना चाहते हैं, तो यह जगह आपके लिए है। यहां आपको विभिन्न प्रोग्रामिंग भाषाओं और तकनीकों के लिए उच्च गुणवत्ता वाले संसाधन, कोड स्निपेट्स, और ट्यूटोरियल्स मिलेंगे। हर सेक्शन आपको goodvibesonly.cloud पर उपलब्ध विस्तृत ट्यूटोरियल्स से जोड़ेगा, जहां स्टेप-बाय-स्टेप निर्देश और कोड उदाहरण हिंदी में दिए गए हैं, ताकि आप आसानी से कोडिंग सीख सकें।
 
 ## Tutorials
 
