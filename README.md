@@ -37,13 +37,21 @@ Master React.js for building modern web applications with this comprehensive ser
 ### [Matlab Tutorials](https://goodvibesonly.cloud/category/tutorials-in-hindi/laravel-framework-tutorial-in-hindi/)
 Learn Matlab for data analysis, simulation, and numerical computing with Hindi tutorials designed for beginners.
 
-## Contribution
+## अन्य उपयोगी लिंक
 
-Feel free to contribute to this repository by submitting pull requests or opening issues. Let's learn and grow together!
+### आधिकारिक साइट्स और उपयोगी संसाधन
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+- [C Programming Documentation](https://en.cppreference.com/w/c)
+- [PHP.net](https://www.php.net/) - PHP के आधिकारिक डॉक्युमेंटेशन और गाइड्स।
+- [CSS Tricks](https://css-tricks.com/) - CSS के लिए बेहतरीन टिप्स और ट्रिक्स।
+- [HTML5 Specifications](https://html.spec.whatwg.org/) - HTML5 के आधिकारिक स्पेसिफिकेशन्स।
+- [MySQL Documentation](https://dev.mysql.com/doc/) - MySQL के लिए आधिकारिक गाइड्स और डॉक्युमेंटेशन।
+- [jQuery Official Site](https://jquery.com/) - jQuery के लिए आधिकारिक गाइड्स और डॉक्युमेंटेशन।
+- [Node.js Official Site](https://nodejs.org/) - Node.js के लिए आधिकारिक गाइड्स और संसाधन।
+- [Python Official Site](https://www.python.org/) - Python के लिए आधिकारिक डॉक्युमेंटेशन और टूल्स।
+- [WordPress Codex](https://codex.wordpress.org/) - WordPress के लिए आधिकारिक गाइड्स और डॉक्युमेंटेशन।
+- [React Official Documentation](https://react.dev/) - React.js के लिए आधिकारिक डॉक्युमेंटेशन।
+- [Matlab Official Documentation](https://www.mathworks.com/help/matlab/) - Matlab के लिए आधिकारिक गाइड्स।
 
 ## Connect
 
@@ -88,13 +96,21 @@ React.js मास्टर करें और हिंदी में उप
 ### [Matlab ट्यूटोरियल्स](https://goodvibesonly.cloud/category/tutorials-in-hindi/laravel-framework-tutorial-in-hindi/)
 Matlab का उपयोग करके डेटा विश्लेषण, सिमुलेशन और नुमेरिकल कम्प्यूटिंग में शुरुआत करें, हिंदी में डिज़ाइन किए गए शुरुआती ट्यूटोरियल्स के साथ।
 
-## योगदान (Contribution)
+## अन्य उपयोगी लिंक
 
-इस रिपॉजिटरी में योगदान देने के लिए आप पुल रिक्वेस्ट सबमिट कर सकते हैं या इश्यूज ओपन कर सकते हैं। चलिए साथ में सीखते और बढ़ते हैं!
+### आधिकारिक साइट्स और उपयोगी संसाधन
 
-## लाइसेंस (License)
-
-यह रिपॉजिटरी MIT License के तहत लाइसेंस प्राप्त है। अधिक जानकारी के लिए [LICENSE](LICENSE) फाइल देखें।
+- [C Programming Documentation](https://en.cppreference.com/w/c)
+- [PHP.net](https://www.php.net/) - PHP के आधिकारिक डॉक्युमेंटेशन और गाइड्स।
+- [CSS Tricks](https://css-tricks.com/) - CSS के लिए बेहतरीन टिप्स और ट्रिक्स।
+- [HTML5 Specifications](https://html.spec.whatwg.org/) - HTML5 के आधिकारिक स्पेसिफिकेशन्स।
+- [MySQL Documentation](https://dev.mysql.com/doc/) - MySQL के लिए आधिकारिक गाइड्स और डॉक्युमेंटेशन।
+- [jQuery Official Site](https://jquery.com/) - jQuery के लिए आधिकारिक गाइड्स और डॉक्युमेंटेशन।
+- [Node.js Official Site](https://nodejs.org/) - Node.js के लिए आधिकारिक गाइड्स और संसाधन।
+- [Python Official Site](https://www.python.org/) - Python के लिए आधिकारिक डॉक्युमेंटेशन और टूल्स।
+- [WordPress Codex](https://codex.wordpress.org/) - WordPress के लिए आधिकारिक गाइड्स और डॉक्युमेंटेशन।
+- [React Official Documentation](https://react.dev/) - React.js के लिए आधिकारिक डॉक्युमेंटेशन।
+- [Matlab Official Documentation](https://www.mathworks.com/help/matlab/) - Matlab के लिए आधिकारिक गाइड्स।
 
 ## संपर्क (Connect)
 
